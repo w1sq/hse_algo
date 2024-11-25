@@ -1,5 +1,7 @@
 # A2
 
+## Ссылка на репозиторий <https://github.com/w1sq/hse_algo/tree/main/HW3/A2>
+
 ## Ссылка на решение <https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/565612/submission/293161621>
 
 ## ID посылки 293161621
